@@ -130,5 +130,9 @@ PRODUCT_COPY_FILES := \
     vendor/moto/shamu/proprietary/libdmengine.so:system/lib/libdmengine.so:moto \
     vendor/moto/shamu/proprietary/libdmjavaplugin.so:system/lib/libdmjavaplugin.so:moto \
     vendor/moto/shamu/proprietary/libfwdlockengine.so:system/lib/drm/libfwdlockengine.so:moto \
-    
-
+    vendor/moto/shamu/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so:moto \
+    vendor/moto/shamu/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so:moto \
+    vendor/moto/shamu/proprietary/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so:moto \
+    vendor/moto/shamu/proprietary/libwvm.so:system/vendor/lib/libwvm.so:moto \
+    vendor/moto/shamu/proprietary/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so:moto \
+    vendor/moto/shamu/proprietary/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so:moto \
