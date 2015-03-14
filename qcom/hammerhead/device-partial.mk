@@ -157,6 +157,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/hammerhead/proprietary/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so:qcom \
     vendor/qcom/hammerhead/proprietary/libqmi_csi.so:system/vendor/lib/libqmi_csi.so:qcom \
     vendor/qcom/hammerhead/proprietary/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so:qcom \
+    vendor/qcom/hammerhead/proprietary/qmi_fw.conf:system/etc/qmi_fw.conf:qcom \
     vendor/qcom/hammerhead/proprietary/libqmiservices.so:system/vendor/lib/libqmiservices.so:qcom \
     vendor/qcom/hammerhead/proprietary/libqmi.so:system/vendor/lib/libqmi.so:qcom \
     vendor/qcom/hammerhead/proprietary/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so:qcom \
